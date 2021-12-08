@@ -1,0 +1,22 @@
+version: "3"
+services:
+  frontend:
+    build: .
+    image: frontend
+    container_name: frontend
+    build:
+       context: .
+    ports:
+      - "8080:80"
+    restart: on-failure
+    networks:
+       project221:
+          ipv4_address: 172.25.0.3
+
+
+networks:
+  default:
+    external:
+       name: project221
+  project221:
+    external: true

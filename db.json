@@ -1,0 +1,64 @@
+{
+  "Productdata": [
+    {
+      "productName": "T-Shirt lnwZa",
+      "typeSelected": "T-Shirt",
+      "brandSelected": "Uniqlo",
+      "colorSelected": [
+        "beige",
+        "blue",
+        "black"
+      ],
+      "genderSelected": "Male",
+      "productPrice": "590",
+      "productManufactured": "2021-05-19",
+      "productDesciption": "เสื้อเทพซ่าเอาไว้เทสระบบ",
+      "id": 2
+    },
+    {
+      "productName": "test",
+      "typeSelected": "T-Shirt",
+      "brandSelected": "H&M",
+      "colorSelected": [
+        "black",
+        "blue",
+        "brown"
+      ],
+      "genderSelected": "Male",
+      "productPrice": "790",
+      "productManufactured": "2021-05-12",
+      "productDesciption": "dfsafdsafasdfdsafsdafa",
+      "id": 3
+    },
+    {
+      "productName": "Product1",
+      "typeSelected": "Sweatshirt",
+      "brandSelected": "H&M",
+      "colorSelected": [
+        "green",
+        "pink",
+        "blue"
+      ],
+      "genderSelected": "Male",
+      "productPrice": "890",
+      "productManufactured": "2021-05-30",
+      "productDesciption": "fdsaadsfasdfdsa",
+      "id": 4
+    },
+    {
+      "productName": "T-Shirt Nude",
+      "typeSelected": "Sweatshirt",
+      "brandSelected": "H&M",
+      "colorSelected": [
+        "black",
+        "beige",
+        "green"
+      ],
+      "genderSelected": "Male",
+      "productPrice": "890",
+      "productManufactured": "2021-05-25",
+      "productDesciption": "dwadwadwadwadwadawdwada",
+      "id": 5
+    }
+  ]
+}
